@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\владислав\documents\visual studio 2017\projects\consoleapplication10\consoleapplication10\source.cpp(25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\владислав\documents\visual studio 2017\projects\consoleapplication10\consoleapplication10\source.cpp(76): warning C4244: инициализация: преобразование "const arma::uword" в "int", возможна потеря данных
+c:\users\владислав\documents\visual studio 2017\projects\consoleapplication10\consoleapplication10\source.cpp(77): warning C4244: инициализация: преобразование "const arma::uword" в "int", возможна потеря данных
+c:\users\владислав\documents\visual studio 2017\projects\consoleapplication10\consoleapplication10\source.cpp(92): warning C4244: аргумент: преобразование "double" в "const float", возможна потеря данных
+c:\users\владислав\documents\visual studio 2017\projects\consoleapplication10\consoleapplication10\source.cpp(115): warning C4305: аргумент: усечение из "double" в "const float"
+c:\users\владислав\documents\visual studio 2017\projects\consoleapplication10\consoleapplication10\source.cpp(247): warning C4305: аргумент: усечение из "double" в "const float"
+  ConsoleApplication10.vcxproj -> C:\Users\Владислав\documents\visual studio 2017\Projects\ConsoleApplication10\x64\Debug\ConsoleApplication10.exe
+  ConsoleApplication10.vcxproj -> C:\Users\Владислав\documents\visual studio 2017\Projects\ConsoleApplication10\x64\Debug\ConsoleApplication10.pdb (Partial PDB)
